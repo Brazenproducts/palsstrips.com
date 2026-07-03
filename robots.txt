@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://palsstrips.com/sitemap.xml
